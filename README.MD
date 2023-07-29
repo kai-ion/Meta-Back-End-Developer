@@ -54,7 +54,7 @@
   - [Lab - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/lab-improve-webpage-with-bootstrap/)
   - [Assignment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
 
-### [Certificate of Completion](https://coursera.org/share/e3c3644964d5b227548708fc8deee4f8)
+### [Certificate of Completion](https://coursera.org/share/e2f3f99fac3d4b7a53e08011e6545ffe)
 
 <br/>
 
