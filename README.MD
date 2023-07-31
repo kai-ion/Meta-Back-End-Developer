@@ -28,7 +28,7 @@
 
 ## Course 1 : [Introduction to Front-End Development](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development)
 
-- [Week 1](/Course 1 - Introduction to Back-End Development/Week 1 - Get started with web development/)
+- [Week 1](/Course%201%20-%20Introduction%20to%20Back-End%20Development/)
 
   - [Quiz - How the web works](/C1-introduction-to-front-end-development/week1/q-How-the-web-works/)
   - [Quiz - Examine the page](/C1-introduction-to-front-end-development/week1/q-examine-the-page/)
