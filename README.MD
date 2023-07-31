@@ -1,6 +1,6 @@
 # Meta Back-End Developer Professional Certificate
 
-![master_head](/master_head.png)
+![master_head](./master_head.png)
 
 - This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
@@ -26,7 +26,7 @@
 
 <br>
 
-## Course 1 : [Introduction to Front-End Development](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development)
+## Course 1 : [Introduction to Front-End Development](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development)
 
 - [Week 1](/Course%201%20-%20Introduction%20to%20Back-End%20Development/)
 
