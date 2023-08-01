@@ -1,6 +1,6 @@
 # Meta Back-End Developer Professional Certificate
 
-![master_head](./master_head.png)
+![](https://github.com/kai-ion/Meta-Back-End-Developer/blob/main/master_head.PNG)
 
 - This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
