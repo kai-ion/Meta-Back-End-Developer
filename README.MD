@@ -6,7 +6,7 @@
 
 ## Table of Content
 
-### Course 1 : [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer) | [[Jump]](#Course-1)
+### Course 1 : [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer) | Click [here](#course-one) to get to the section.
 
 ### Course 2 : [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
 
@@ -26,15 +26,17 @@
 
 <br>
 
+<a id="course-one"></a>
+
 ## Course 1 : [Introduction to Front-End Development](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development)
 
-- [Week 1](/Course%201%20-%20Introduction%20to%20Back-End%20Development/)
+- [Week 1 - Get started with web development](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development)
 
   - [Quiz - How the web works](/C1-introduction-to-front-end-development/week1/q-How-the-web-works/)
   - [Quiz - Examine the page](/C1-introduction-to-front-end-development/week1/q-examine-the-page/)
   - [Module Quiz: Get started with Web Development](/C1-introduction-to-front-end-development/week1/q-getting-started-with-web-dev/)
 
-- [Week 2](/C1-introduction-to-front-end-development/week2/)
+- [Week 2 - Introduction to HTML and CSS](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
 
   - [Quiz - Getting Started with HTML](/C1-introduction-to-front-end-development/week2/q1-getting-started-with-html/)
   - [Quiz - CSS Basics](/C1-introduction-to-front-end-development/week2/q2-css-basics/)
@@ -43,13 +45,14 @@
   - [Programming Assignment - Styling a Page](/C1-introduction-to-front-end-development/week2/C1W2A2-styling-a-page/)
   - [Programming Assignment - Create and Style a Webpage](/C1-introduction-to-front-end-development/week2/C1W2A3-create-and-style-a-webpage/)
 
-- [Week 3](/C1-introduction-to-front-end-development/week3/)
+- [Week 3 - UI Frameworks](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks)
 
   - [Quiz - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/q1-working-with-bootstrap-grid/)
   - [Quiz - Working with Bootstrap Components](/C1-introduction-to-front-end-development/week3/q2-working-with-bootstrap-components/)
   - [Lab - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/lab1-working-with-bootstrap-grid/)
 
-- [Week 4](/C1-introduction-to-front-end-development/week4/)
+- [Week 4 - End-of-Course Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
+
   - [Quiz - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/q1-improve-webpage-with-bootstrap/)
   - [Lab - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/lab-improve-webpage-with-bootstrap/)
   - [Assignment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
