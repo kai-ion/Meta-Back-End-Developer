@@ -32,9 +32,9 @@
 
 - [Week 1 - Get started with web development](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development)
 
-  - [Quiz - How the web works](/C1-introduction-to-front-end-development/week1/q-How-the-web-works/)
-  - [Quiz - Examine the page](/C1-introduction-to-front-end-development/week1/q-examine-the-page/)
-  - [Module Quiz: Get started with Web Development](/C1-introduction-to-front-end-development/week1/q-getting-started-with-web-dev/)
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development/1.cheat-sheets)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development/2.knowledge-checks)
+  - [Exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development/3.exercises/examine_the_page)
 
 - [Week 2 - Introduction to HTML and CSS](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
 
