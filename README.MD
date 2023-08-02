@@ -48,9 +48,11 @@
 
 - [Week 3 - UI Frameworks](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks)
 
-  - [Quiz - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/q1-working-with-bootstrap-grid/)
-  - [Quiz - Working with Bootstrap Components](/C1-introduction-to-front-end-development/week3/q2-working-with-bootstrap-components/)
-  - [Lab - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/lab1-working-with-bootstrap-grid/)
+  - [Demo](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks/1.demos)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks/2.knowledge-checks)
+  - [Prgramming Assignments and Labs](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks/3.exercises)
+    - [Programming Lab - Working with Bootstrap grid](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks/3.exercises/1.lab-working-with-bootstrap-grid)
+    - [Programming Lab - Working with Bootstrap components](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks/3.exercises/1.lab-working-with-bootstrap-grid)
 
 - [Week 4 - End-of-Course Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
