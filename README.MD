@@ -56,9 +56,8 @@
 
 - [Week 4 - End-of-Course Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
-  - [Quiz - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/q1-improve-webpage-with-bootstrap/)
-  - [Lab - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/lab-improve-webpage-with-bootstrap/)
-  - [Assignment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
+  - [Programming Lab - Improve Webpage Using Bootstrap](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment/1.lab-improve-your-bio-page-with-bootstrap)
+  - [Assessment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
 
 ### [Certificate of Completion](https://coursera.org/share/e2f3f99fac3d4b7a53e08011e6545ffe)
 
