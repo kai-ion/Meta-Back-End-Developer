@@ -38,12 +38,13 @@
 
 - [Week 2 - Introduction to HTML and CSS](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
 
-  - [Quiz - Getting Started with HTML](/C1-introduction-to-front-end-development/week2/q1-getting-started-with-html/)
-  - [Quiz - CSS Basics](/C1-introduction-to-front-end-development/week2/q2-css-basics/)
-  - [Module Quiz - Introduction to HTML and CSS](/C1-introduction-to-front-end-development/week2/q3-introduction-to-html-and-css/)
-  - [Programming Assignment - Creating a HTML Document](/C1-introduction-to-front-end-development/week2/C1W2A1-Creating-a-html-document/)
-  - [Programming Assignment - Styling a Page](/C1-introduction-to-front-end-development/week2/C1W2A2-styling-a-page/)
-  - [Programming Assignment - Create and Style a Webpage](/C1-introduction-to-front-end-development/week2/C1W2A3-create-and-style-a-webpage/)
+  - [Demo](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/1.demos)
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/2.cheat-sheets)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/3.knowledge-checks)
+  - [Programming Assignments](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/4.exercises)
+    - [Programming Assignment - Creating an HTML Document](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/4.exercises/1.programming-assignment-creating-an-html-document)
+    - [Programming Assignment - Styling a page](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/4.exercises/2.programming-assignment-styling-a-page)
+    - [Programming Assignment - Create and style a webpage](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/4.exercises/3.programming-assignment-create-and-style-a-webpage)
 
 - [Week 3 - UI Frameworks](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks)
 
