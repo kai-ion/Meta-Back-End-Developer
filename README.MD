@@ -65,7 +65,7 @@
 
 <a id="course-two"></a>
 
-## Course 2 : [Programming in Python]()
+## Course 2 : [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
 
 ### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/5M4ZAWAVUJSA)
 
