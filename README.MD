@@ -8,7 +8,7 @@
 
 ### Course 1 : [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer) | Click [here](#course-one) to get to the section.
 
-### Course 2 : [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+### Course 2 : [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer) | Click [here](#course-two) to get to the section.
 
 ### Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)
 
@@ -63,3 +63,10 @@
 
 <br/>
 
+<a id="course-two"></a>
+
+## Course 2 : [Programming in Python]()
+
+### [Certificate of Completion]()
+
+<br/>
