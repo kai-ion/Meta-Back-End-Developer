@@ -67,6 +67,6 @@
 
 ## Course 2 : [Programming in Python]()
 
-### [Certificate of Completion]()
+### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/5M4ZAWAVUJSA)
 
 <br/>
