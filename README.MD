@@ -85,6 +85,11 @@
   - [Programming assignments and exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%203%20-%20Programming%20paradigms/3.programming-assignment-exercises)
 
 - Week 4: [Modules, packages, libraries and tools](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%204%20-%20Modules%2C%20packages%2C%20libraries%20and%20tools)
+
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%204%20-%20Modules%2C%20packages%2C%20libraries%20and%20tools/1.cheat-sheets-reading)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%204%20-%20Modules%2C%20packages%2C%20libraries%20and%20tools/2.knowledge-checks-quizzes)
+  - [Programming assignments](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%204%20-%20Modules%2C%20packages%2C%20libraries%20and%20tools/3.programming-assignment)
+
 - Week 5: [End-of-Course Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%205%20-%20End-of-Course%20Graded%20Assessment)
 
 ### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/5M4ZAWAVUJSA)
