@@ -1,6 +1,6 @@
 # Programming in Python
 
-- This directory contains all of my assignments from the Coursera Course: [Introduction to Back-End Development](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+- This directory contains all of my assignments from the Coursera Course: [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
 
 ## Table of Content
 
