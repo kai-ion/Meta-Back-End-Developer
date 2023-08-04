@@ -69,9 +69,9 @@
 
 - Week 1: [Getting started with Python](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%201%20-%20Getting%20started%20with%20Python)
 
-  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%201%20-%20Getting%20started%20with%20Python/1.cheat-sheets)
-  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development/2.knowledge-checks)
-  - [Programming assignments and exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development/3.exercises/examine_the_page)
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%201%20-%20Getting%20started%20with%20Python/1.cheat-sheets-readings)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%201%20-%20Getting%20started%20with%20Python/2.knowledge-checks%20and%20quizzes)
+  - [Programming assignments and exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%201%20-%20Getting%20started%20with%20Python/3.programming-assignment-exercises)
 
 - Week 2: [Basic Programming with Python](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%202%20-%20Basic%20Programming%20with%20Python)
 - Week 3: [Programming paradigms](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%202%20-%20Programming%20in%20Python/Week%203%20-%20Programming%20paradigms)
