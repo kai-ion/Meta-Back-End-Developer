@@ -10,7 +10,7 @@
 
 ### Course 2 : [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer) | Click [here](#course-two) to get to the section.
 
-### Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)
+### Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer) | Click [here](#course-three) to get to the section.
 
 ### Course 4 : [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
 
@@ -95,3 +95,14 @@
 ### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/5M4ZAWAVUJSA)
 
 <br/>
+
+<a id="course-three"></a>
+
+## Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)
+
+- Week 1: [Software collaboration](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
+- Week 2: [Command Line](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
+- Week 3: [Working with Git](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
+- Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
+
+### [Certificate of Completion]()
