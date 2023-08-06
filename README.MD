@@ -111,6 +111,10 @@
   - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line/2.knowledge-check-quizzes)
   
 - Week 3: [Working with Git](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
+
+  - [Exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git/1.exercises)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git/2.knowledge-check-quizzes)
+
 - Week 4: [Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
 ### [Certificate of Completion]()
