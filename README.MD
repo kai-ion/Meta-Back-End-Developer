@@ -102,10 +102,14 @@
 
 - Week 1: [Software collaboration](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
 
-  - [Cheat sheets and readings]()
-  - [Knowledge check and quizzes]()
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration/1.cheat-sheets-readings)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration/2.knowledge-check-quizzes)
 
 - Week 2: [Command Line](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
+
+  - [Exercises]()
+  - [Knowledge check and quizzes]()
+  
 - Week 3: [Working with Git](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
 - Week 4: [Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
