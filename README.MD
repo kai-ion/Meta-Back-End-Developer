@@ -100,9 +100,13 @@
 
 ## Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)
 
-- Week 1: [Software collaboration](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
-- Week 2: [Command Line](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
-- Week 3: [Working with Git](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
-- Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
+- Week 1: [Software collaboration](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
+
+  - [Cheat sheets and readings]()
+  - [Knowledge check and quizzes]()
+
+- Week 2: [Command Line](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
+- Week 3: [Working with Git](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
+- Week 4: [Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
 ### [Certificate of Completion]()
