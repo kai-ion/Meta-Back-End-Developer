@@ -117,4 +117,4 @@
 
 - Week 4: [Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
-### [Certificate of Completion]()
+### [Certificate of Completion](https://coursera.org/share/ceace8764d637a9675aa7fe3db119507)
