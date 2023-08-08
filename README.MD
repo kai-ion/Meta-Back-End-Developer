@@ -12,7 +12,7 @@
 
 ### Course 3 : [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer) | Click [here](#course-three) to get to the section.
 
-### Course 4 : [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
+### Course 4 : [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer) | Click [here](#course-four) to get to the section.
 
 ### Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
 
@@ -118,3 +118,19 @@
 - Week 4: [Graded Assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
 ### [Certificate of Completion](https://coursera.org/share/ceace8764d637a9675aa7fe3db119507)
+
+<br/>
+
+<a id="course-four"></a>
+
+## Course 4 : [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
+
+- Week 1: [Introduction to Databases]()
+- Week 2: [Create, Read, Update and Delete (CRUD) Operations]()
+- Week 3: [SQL Operators and sorting and filtering data]()
+- Week 4: [Database design]()
+- Week 5: [Graded assessment]()
+
+### [Certificate of Completion]()
+
+<br/>
