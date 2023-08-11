@@ -12,7 +12,7 @@ The goal of this exercise is for you to learn how to choose suitable data types 
 #### Scenario
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices in Harrow town near London. He wants to create a database to store key information about customers’ orders to generate invoices for his customers including customer name, order date, quantity and total price as shown in the invoice table below. 
 
-![Invoice table](ChoosingTheRightTypeForAColumnImages/picture1.png)
+![Invoice table](ChoosingDataImages/picture1.png)
 
 
  
@@ -64,7 +64,7 @@ Use cm_devices;
 
 ```
 
-![Use database](ChoosingTheRightTypeForAColumnImages/picture2.png)
+![Use database](ChoosingDataImages/picture2.png)
 
  
 **Create the SQL statement**
@@ -93,7 +93,7 @@ Show tables;
 
 6-Press enter to execute the query. The output result is in the image below that displays the list of tables that exist in the ‘cm devices’ database.  
 
-![List of tables](ChoosingTheRightTypeForAColumnImages/picture3.png)
+![List of tables](ChoosingDataImages/picture3.png)
 
 7-If you want to check the structure of the invoice table, type the following SQL statement and click enter.
 
@@ -104,7 +104,7 @@ Show columns from invoice;
  
 This will display the invoice table structure.
 
-![Invoice table structure](ChoosingTheRightTypeForAColumnImages/picture4.PNG)
+![Invoice table structure](ChoosingDataImages/picture4.png)
 
 In this exercise, you have learned how to choose suitable data types for a variety of columns.
 Here is an additional task for you to test your skills. 
