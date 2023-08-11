@@ -143,6 +143,11 @@
   - [Exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%203%20-%20SQL%20Operators%20and%20sorting%20and%20filtering%20data/3.exercises/1.exercise-order-by-and-where)
 
 - Week 4: [Database design](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design)
+
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design/1.cheat-sheets-readings)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design/2.knowledge-checks-quizzes)
+  - [Exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design/3.exercises/1.Database%20schema%20examples)
+
 - Week 5: [Graded assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%205%20-%20Graded%20assessment)
 
 ### [Certificate of Completion]()
