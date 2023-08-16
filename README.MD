@@ -150,6 +150,28 @@
 
 - Week 5: [Graded assessment](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%205%20-%20Graded%20assessment)
 
+### [Certificate of Completion](https://coursera.org/share/31be6f2c766f4e42352515f9fd6dd4fe)
+
+<br/>
+
+<a id="course-four"></a>
+
+## Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
+
+- Week 1: [Introduction to Django]()
+
+
+- Week 2: [Views]()
+
+
+- Week 3: [Models]()
+
+
+- Week 4: [Templates]()
+
+
+- Week 5: [End of Course Assessment]()
+
 ### [Certificate of Completion]()
 
 <br/>
