@@ -14,7 +14,7 @@
 
 ### Course 4 : [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer) | Click [here](#course-four) to get to the section.
 
-### Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
+### Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer) | Click [here](#course-five) to get to the section.
 
 ### Course 6 : [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)
 
@@ -154,7 +154,7 @@
 
 <br/>
 
-<a id="course-four"></a>
+<a id="course-five"></a>
 
 ## Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
 
