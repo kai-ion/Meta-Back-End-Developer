@@ -158,9 +158,11 @@
 
 ## Course 5 : [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
 
-- Week 1: [Introduction to Django]()
+- Week 1: [Introduction to Django](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%205%20-%20Django%20Web%20Framework/Week%201%20-%20Introduction%20to%20Django)
 
- - [Cheat sheets and readings]()
+  - [Cheat sheets and readings](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%205%20-%20Django%20Web%20Framework/Week%201%20-%20Introduction%20to%20Django/1.cheat-sheets-readings)
+  - [Knowledge check and quizzes](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%205%20-%20Django%20Web%20Framework/Week%201%20-%20Introduction%20to%20Django/2.knowledge-checks-quizzes)
+  - [Exercises](https://github.com/kai-ion/Meta-Back-End-Developer/tree/main/Course%205%20-%20Django%20Web%20Framework/Week%201%20-%20Introduction%20to%20Django/3.excercise)
 
 - Week 2: [Views]()
 
