@@ -160,6 +160,7 @@
 
 - Week 1: [Introduction to Django]()
 
+ - [Cheat sheets and readings]()
 
 - Week 2: [Views]()
 
